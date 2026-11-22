@@ -1,0 +1,4 @@
+# Файл .dockerignoredocker build -t taski_backend 
+.venv
+.git
+db.sqlite3
